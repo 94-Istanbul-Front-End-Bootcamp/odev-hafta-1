@@ -5,8 +5,8 @@ Github ve Linkedin profillerinizine ulaşabileceğimiz bir web sayfası gelişti
 ## Örnek sayfa yapısı
 Butona tıklamadan önce
 ![alt text](/ss1.png)
-
 Butona tıklandıkdan sonra
+
 ![alt text](/ss2.png)
 
 
