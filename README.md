@@ -17,15 +17,15 @@ Butona tıklandıkdan sonra
 3- Getir butonu bir onclick fonksiyonu tetiklemeli ve bu fonksiyon "h1" tag'inin içerisine isminizi, "h2" tag'inin içerisine de yaşınızı yazmalı. Yani butona tıklandığında DOM'da isminiz ve görülebilir olmalı.
 
 4- Style konusunda tamamen özgürsünüz, görünüm size kalmış :)
+    
+5- Ad soyad ve yaş için ayrı değişkenler tanımlanıp daha sonra bu değişkenler çağırılarak dom'a yazdırılmalıdır.
 
-5- Dosya isimleri aşağıda belirtildiği gibi olabilir.
+6- Butonun ScreenShotlarda göründüğü gibi tıklandıktan sonra kaybolmalıdır.
+
+7- Dosya isimleri aşağıda belirtildiği gibi olabilir.
 
     index.html
     index.js
-    
-6- Ad soyad ve yaş için ayrı değişkenler tanımlanıp daha sonra bu değişkenler çağırılarak dom'a yazdırılmalıdır.
-
-7- Butonun ScreenShotlarda göründüğü gibi tıklandıktan sonra kaybolmalıdır.
 
 ## Örnek HTML kodu (Şablon olarak kullanılabilir)
 ```html
