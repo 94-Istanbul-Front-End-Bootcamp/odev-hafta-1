@@ -22,6 +22,10 @@ Butona tıklandıkdan sonra
 
     index.html
     index.js
+    
+6- Ad soyad ve yaş için ayrı değişkenler tanımlanıp daha sonra bu değişkenler çağırılarak dom'a yazdırılmalıdır.
+
+7- Butonun ScreenShotlarda göründüğü gibi tıklandıktan sonra kaybolmalıdır.
 
 ## Örnek HTML kodu (Şablon olarak kullanılabilir)
 ```html
